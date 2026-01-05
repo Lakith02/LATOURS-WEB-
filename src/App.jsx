@@ -4,7 +4,7 @@ import About from './pages/About'; // Import the new About page
 import ServicesPage from './pages/ServicesPage';
 import Blog from './pages/Blog';
 import Gallery from './pages/Gallery';
-import Contact from './pages/Contact';
+import Contact from './pages/Contact';//comments   ghhgfv
 
 function App() {
   return (
